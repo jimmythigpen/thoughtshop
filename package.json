@@ -14,6 +14,7 @@
     "test:ci": "yarn build -t node && vitest run"
   },
   "devDependencies": {
+    "@netlify/hydrogen-platform": "^1.1.1",
     "@shopify/cli": "3.6.2",
     "@shopify/cli-hydrogen": "3.6.2",
     "@shopify/prettier-config": "^1.1.2",
